@@ -1,0 +1,6 @@
+.sass-cache
+*.css.map
+
+gnome-shell/gnome-shell.css
+gnome-shell/gnome-shell-high-contrast.css
+

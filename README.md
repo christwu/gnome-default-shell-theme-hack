@@ -6,9 +6,15 @@ gnome-default-shell-theme-hack
 构建方法：
 
 ```bash
-sass --source-map=none --update .
+gulp
 ```
 
-## TODO
-1. 使用 Gulp 自动构建、调试
+调试：
 
+```bash
+gulp watch
+```
+
+然后随时按 Alt-F2 并在里面输入 `rt`。
+
+(╯°Д°)╯︵ ~~~~~┻━┻

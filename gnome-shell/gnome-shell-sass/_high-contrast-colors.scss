@@ -6,6 +6,8 @@ $base_color: #222;
 $bg_color: #000;
 $fg_color: #fff;
 
+$popmenu_bg_color: rgba(0, 0, 0, .93);
+
 $selected_fg_color: #ffffff;
 $selected_bg_color: darken(#4a90d9,20%);
 $selected_borders_color: darken($selected_bg_color, 20%);
